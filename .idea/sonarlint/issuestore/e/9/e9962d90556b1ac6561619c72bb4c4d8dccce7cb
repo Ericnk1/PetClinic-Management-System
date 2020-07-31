@@ -1,0 +1,33 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ƒ¼øÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ÝúÄ«øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎùÂ±ûÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(»‰Ú“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Øí ¶
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(é‚çúúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ùðý
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öÛ®ÿÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(§ðæ©
+N	java:S106"9Replace this use of System.out or System.err by a logger.(óåã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºûˆ×ùÿÿÿÿ
+B
+java:S1602F",Remove useless curly braces around statement(êªÄ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ñÌï¤
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›Žâßûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÓ¤¤ýÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ƒŒ—¹üÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(êŠáì
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùØ¶Þùÿÿÿÿ
+k	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÕ•Âûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ƒ½„
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ªþò¢
+G
+java:S16023",Remove useless curly braces around statement(¾’›íýÿÿÿÿ
+B
+java:S1602(",Remove useless curly braces around statement(˜Ô˜”
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(éÜ°ò
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ÝúÄ«øÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(­ÜÌ÷üÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(›Ë°‡þÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ

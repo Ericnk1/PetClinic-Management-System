@@ -1,0 +1,42 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÓ¤¤ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô§ø¥øÿÿÿÿ
+E
+java:S1148i"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áÚ¤è®.
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Øí ¶
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(Ò‘ÍÆ8§š˜è®.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°şšéùÿÿÿÿ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(êŠáì
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(à÷ÌÜ
+M	java:S106W"9Replace this use of System.out or System.err by a logger.(Ó°¯7
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(û§§Ôıÿÿÿÿ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(üğÍ¤
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Àâ´øşÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ÓÖñî
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑíĞ»üÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ñ‚½¸
+S	java:S106["9Replace this use of System.out or System.err by a logger.(¢ªƒçıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùØ¶Şùÿÿÿÿ
+g
+java:S1128"QRemove this unused import 'ee.sdaacademy.petclinic.repositories.AdminRepository'.(É¯±Ï
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(Àş ³
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(°•Šúÿÿÿÿ
+E
+java:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Õí›è®.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²êÊ£
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¸ò
+A
+java:S1602{",Remove useless curly braces around statement(È¹İL
+S	java:S106"9Replace this use of System.out or System.err by a logger.(è¡ŸÔüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øËòš
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(ÓÖñî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êà¶’
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(üğÍ¤
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(·ˆ¥úıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±á¹±ıÿÿÿÿ
+B
+java:S1602E",Remove useless curly braces around statement(‡Çõì
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(°•Šúÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(àœ¾øÿÿÿÿ
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(Ò‘ÍÆ8áÚ¤è®.
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(Â‰½

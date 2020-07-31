@@ -1,0 +1,26 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùØ¶Şùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢½ÿ’şÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(‰’ÅÕûÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(óıÉûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àİ”èûÿÿÿÿ
+@
+java:S3457,"%String contains no format specifiers.(±Ğç°øÿÿÿÿ
+B
+java:S16024",Remove useless curly braces around statement(ÍÙŠƒ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¤Ş–òûÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(½•ÄÃ
+G
+java:S1602#",Remove useless curly braces around statement(ïĞÁËüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÑÉğıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥µ ³ùÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(êŠáì
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÓ¤¤ıÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(±Ğç°øÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦“ğó
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ö‘Å
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·ïÏ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(½•ÄÃ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Øí ¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÌ˜ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ Ì—ıÿÿÿÿ

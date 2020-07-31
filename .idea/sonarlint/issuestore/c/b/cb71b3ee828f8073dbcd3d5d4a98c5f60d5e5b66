@@ -1,0 +1,20 @@
+
+7
+java:S1116+"Remove this empty statement.(ôŸìúÿÿÿÿ
+b
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(üÀ¾›8üõƒİ®.
+7
+java:S1116F"Remove this empty statement.(ôŸìúÿÿÿÿ
+7
+java:S11164"Remove this empty statement.(ôŸìúÿÿÿÿ
+x
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "owner".(Ğ¤û¦ÿÿÿÿÿ
+7
+java:S1116""Remove this empty statement.(ôŸìúÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+7
+java:S1116="Remove this empty statement.(ôŸìúÿÿÿÿ
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(½š˜8çÖ‡İ®.
